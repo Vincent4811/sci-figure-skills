@@ -8,7 +8,22 @@ Specs are organised **by publisher first**. Each publisher file has a base-rules
 | Cell Press | [publishers/cell-press.md](publishers/cell-press.md) | Cell Systems, Cell Reports |
 | PLOS | [publishers/plos.md](publishers/plos.md) | none verified (PLOS Comput Biol ⚠️) |
 | Elsevier | [publishers/elsevier.md](publishers/elsevier.md) | none verified yet |
+| Wiley (incl. former Hindawi titles) | [publishers/wiley.md](publishers/wiley.md) | none verified yet |
+| Taylor & Francis | [publishers/taylor-francis.md](publishers/taylor-francis.md) | none verified yet |
+| Dove Medical Press (T&F group) | [publishers/dove-press.md](publishers/dove-press.md) | none (central guideline) |
+| SAGE | [publishers/sage.md](publishers/sage.md) | J Histochem Cytochem |
+| Oxford University Press | [publishers/oxford-university-press.md](publishers/oxford-university-press.md) | J Plankton Res, J Anim Sci (no central base ⚠️) |
+| Cambridge University Press | [publishers/cambridge-university-press.md](publishers/cambridge-university-press.md) | none verified yet |
+| Frontiers | [publishers/frontiers.md](publishers/frontiers.md) | none (central guideline) |
+| MDPI | [publishers/mdpi.md](publishers/mdpi.md) | none verified yet |
+| IEEE | [publishers/ieee.md](publishers/ieee.md) | none verified yet |
+| ACS | [publishers/acs.md](publishers/acs.md) | none verified yet |
+| RSC | [publishers/rsc.md](publishers/rsc.md) | none verified (all rows ⚠️) |
+| AAAS (Science family) | [publishers/aaas-science.md](publishers/aaas-science.md) | Science Advances, Science Translational Medicine |
+| American Society for Microbiology | [publishers/asm.md](publishers/asm.md) | none verified (all rows ⚠️, 2011 source) |
 | New publisher | [publishers/_TEMPLATE.md](publishers/_TEMPLATE.md) | — |
+
+**DOAJ is not a publisher.** The Directory of Open Access Journals lists vetted open-access journals from many publishers and sets no figure rules. For a DOAJ-listed journal, find its actual publisher and use that file (or the journal's own guide).
 
 How to look up a journal:
 1. Open its publisher file and apply the base rules.

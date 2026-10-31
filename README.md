@@ -14,7 +14,7 @@ Agent Skills for designing scientific figures, graphical abstracts and infograph
 Teaching material (Traditional Chinese): `docs/teaching-zh-TW/`.
 
 ## Publisher-first journal specs
-Journal figure rules live in `skills/figure-design-core/references/publishers/`, one file per publisher (`springer-nature.md`, `cell-press.md`, `plos.md`, `elsevier.md`). `journal-specs.md` is the index and overview table.
+Journal figure rules live in `skills/figure-design-core/references/publishers/`, one file per publisher: Springer Nature, Cell Press, PLOS, Elsevier, Wiley, Taylor & Francis, Dove Press, SAGE, Oxford University Press, Cambridge University Press, Frontiers, MDPI, IEEE, ACS, RSC, AAAS/Science and ASM (DOAJ is a directory, not a publisher). `journal-specs.md` is the index and overview table.
 
 Each file has:
 1. **Publisher base rules**: font, size, widths, max dimensions, formats, resolution, colour mode, panel labels.
