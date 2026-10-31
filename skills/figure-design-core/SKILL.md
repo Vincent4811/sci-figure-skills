@@ -14,7 +14,7 @@ Backbone: Fujii's five tactics (Nat Hum Behav 2026), summarised in our own words
 
 ## Workflow
 1. Write the message (one sentence) and the audience/venue (paper, poster, slide).
-2. Identify the target journal → load `references/journal-specs.md` for width, fonts, label style.
+2. Identify the target journal → load `references/journal-specs.md` (index) → open `references/publishers/<publisher>.md` for base rules + journal exceptions (width, fonts, label style).
 3. Choose chart type with `references/chart-chooser.md`.
 4. Apply typography + layout rules below; build on a grid at final size (mm).
 5. Self-review with the `figure-review-rubric` skill (1-second test).
@@ -62,4 +62,4 @@ Backbone: Fujii's five tactics (Nat Hum Behav 2026), summarised in our own words
 - Implementation: `data-to-figure` skill (patchwork `tag_levels`, matplotlib `subplot_mosaic` + `fig.text`).
 
 ## References
-See `references/sources.md` (all paraphrased; no figures copied) and `references/journal-specs.md`.
+See `references/sources.md` (all paraphrased; no figures copied) , `references/journal-specs.md` (index) and `references/publishers/`.

@@ -11,6 +11,26 @@ Agent Skills for designing scientific figures, graphical abstracts and infograph
 
 Teaching material (Traditional Chinese): `docs/teaching-zh-TW/`.
 
+## Publisher-first journal specs
+Journal figure rules live in `skills/figure-design-core/references/publishers/`, one file per publisher (`springer-nature.md`, `cell-press.md`, `plos.md`, `elsevier.md`). `journal-specs.md` is the index and overview table.
+
+Each file has:
+1. **Publisher base rules**: font, size, widths, max dimensions, formats, resolution, colour mode, panel labels.
+2. **Journal exceptions**: only the journals that differ, e.g. Nature Communications uses 88/180 mm, while the Nature base is 89/183 mm.
+
+Each rule cites a source and is marked ✅ verified or ⚠️ check before use. To resolve a journal, apply the base rules, then the exception, then the journal's own current guide.
+
+**Add a publisher:** copy `publishers/_TEMPLATE.md` to `publishers/<publisher>.md`, fill in the base table with sources, and add a row to the index in `journal-specs.md`.
+
+**Add a journal exception** to the publisher file:
+```markdown
+### Food Microbiology
+| Item | Differs how | Source / status |
+|---|---|---|
+| Column widths | ... | ✅ [FM-GFA] https://... (checked YYYY-MM-DD) |
+```
+List only the items that differ from the base. Then update the "Journals with exceptions" column in the index.
+
 ## Install
 Each folder under `skills/` is a self-contained skill (`SKILL.md` with YAML frontmatter `name` + `description`).
 - **Claude Code / Agent-Skills-compatible agents**: copy or symlink folders into `~/.claude/skills/` (user) or `.claude/skills/` (project).

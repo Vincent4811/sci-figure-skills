@@ -1,4 +1,21 @@
-# Journal figure conventions (verified 2026-10-31; always re-check the target journal's Guide for Authors)
+# Journal figure specs: index and overview (publisher-first)
+
+Specs are organised **by publisher first**. Each publisher file has a base-rules table, followed by *Journal exceptions* listing only the journals that differ.
+
+| Publisher | File | Journals with exceptions |
+|---|---|---|
+| Springer Nature | [publishers/springer-nature.md](publishers/springer-nature.md) | Nature, Nature Communications |
+| Cell Press | [publishers/cell-press.md](publishers/cell-press.md) | Cell Systems, Cell Reports |
+| PLOS | [publishers/plos.md](publishers/plos.md) | none verified (PLOS Comput Biol ⚠️) |
+| Elsevier | [publishers/elsevier.md](publishers/elsevier.md) | none verified yet |
+| New publisher | [publishers/_TEMPLATE.md](publishers/_TEMPLATE.md) | — |
+
+How to look up a journal:
+1. Open its publisher file and apply the base rules.
+2. Override them with that journal's exception block, if there is one.
+3. The journal's current Guide for Authors always wins.
+
+## Overview comparison (original table, verified 2026-10-31; always re-check the target journal's Guide for Authors)
 
 | Item | Nature (research figure guide) | Cell Press | PLOS | Elsevier (generic artwork) |
 |---|---|---|---|---|
@@ -17,3 +34,5 @@
 - PLOS figures: https://journals.plos.org/plosone/s/figures and https://journals.plos.org/plosbiology/s/figures
 - Elsevier Artwork Instructions (sizing, 7 pt rule): https://physics.mff.cuni.cz/kfpp/conference/instr/artwork_instructions.pdf ; summary https://www.sciplot.org/blog/elsevier-figure-requirements
 - Nature 89/183 mm widths: Nature formatting guide (https://www.nature.com/nature/for-authors/formatting-guide) – check before use.
+
+- Added 2026-11-01: Nature figure guide, "Building and exporting figure panels" (89/183 mm, max height 170 mm), verified: https://research-figure-guide.nature.com/figures/building-and-exporting-figure-panels/ . Nature Communications uses 88/180 mm: see publishers/springer-nature.md.
