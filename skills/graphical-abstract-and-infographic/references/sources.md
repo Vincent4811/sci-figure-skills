@@ -1,0 +1,6 @@
+- Jambor H, Bornhäuser M (2024) Ten simple rules for designing graphical abstracts. PLoS Comput Biol 20(2):e1011789 (CC BY) — paraphrased.
+- Elsevier graphical abstract guidelines: https://www.elsevier.com/researcher/author/tools-and-resources/graphical-abstract
+- Cell Press graphical abstract guidelines: https://www.cell.com/figureguidelines (check current)
+- WebAIM contrast checker: https://webaim.org/resources/contrastchecker/
+- Amoah-Oppong (2025), CC BY-NC — infographic concepts only.
+- Figma Resource Library (2026) 46 infographic examples for data-driven storytelling. https://www.figma.com/resource-library/infographic-examples/ (accessed 2026-11-01). Proprietary page; types and tips paraphrased only.

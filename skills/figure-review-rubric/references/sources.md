@@ -1,0 +1,3 @@
+- Jambor H. From zero to figure hero (preprint checklist): 1-second test, reverse feedback — paraphrased.
+- Fujii (2026) Nat Hum Behav 10:825–827 — criteria structure.
+- Midway (2020) Patterns 1:100141 (CC BY-NC-ND) — principles referenced, not reproduced.

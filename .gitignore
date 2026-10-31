@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
+*.tar.gz
+.ipynb_checkpoints/
