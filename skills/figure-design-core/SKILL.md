@@ -62,4 +62,4 @@ Backbone: Fujii's five tactics (Nat Hum Behav 2026), summarised in our own words
 - Implementation: `data-to-figure` skill (patchwork `tag_levels`, matplotlib `subplot_mosaic` + `fig.text`).
 
 ## References
-See `references/sources.md` (all paraphrased; no figures copied) , `references/journal-specs.md` (index) and `references/publishers/`.
+See `references/sources.md` (all paraphrased; no figures copied), `references/journal-specs.md` (index) and `references/publishers/`.

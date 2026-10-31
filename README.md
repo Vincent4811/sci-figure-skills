@@ -1,5 +1,7 @@
 # sci-figure-skills
 
+![sci-figure-skills overview](docs/assets/sci-figure-skills-overview.png)
+
 Agent Skills for designing scientific figures, graphical abstracts and infographics — with special focus on **typography** and **multi-panel (a/b/c) layout**, plus runnable Python/R templates.
 
 | Skill | Use it for |
