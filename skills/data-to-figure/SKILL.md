@@ -28,7 +28,7 @@ Design rules live in `figure-design-core`; this skill is the implementation.
 ```bash
 python -m venv .venv && .venv/bin/pip install matplotlib numpy pandas
 cd scripts && ../.venv/bin/python fig_template.py --journal nature
-Rscript fig_template.R   # needs ggplot2, patchwork
+Rscript fig_template.R   # needs ggplot2, patchwork, svglite (checked before plotting)
 ```
 
 ## Gotchas
