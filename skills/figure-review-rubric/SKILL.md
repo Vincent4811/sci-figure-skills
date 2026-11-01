@@ -24,6 +24,10 @@ Before reading the caption, the reviewer explains in their own words what the fi
 | 8 | Technical specs | correct width mm, dpi, fonts embedded, file format |
 Total /32. Grade bands: ≥28 publication-ready; 20–27 minor revision; 12–19 major revision; <12 redesign.
 
+### Hard gate (cannot be offset by a high total)
+- Publication-ready requires BOTH: (a) Total ≥ 28, AND (b) Statistical honesty (criterion #3) ≥ 1.
+- If Statistical honesty = 0 — including absent data provenance (e.g., n/SD/SE/CI undefined) or any major misleading presentation (e.g., dishonest axes, cherry-picking) — the figure CANNOT be marked publication-ready regardless of total score.
+
 ## Output format
 1. 1-second impression · 2. Scores table with one-line evidence each · 3. Top 3 fixes (most impact first) · 4. One thing done well.
 Use `templates/rubric_form.md` for grading; weights may be changed for courses (e.g., GA: replace #3 with "Visual flow").
