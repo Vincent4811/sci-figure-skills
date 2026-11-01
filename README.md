@@ -43,7 +43,8 @@ Python templates:
 python -m venv .venv && .venv/bin/pip install matplotlib numpy pandas
 cd skills/data-to-figure/scripts && ../../../.venv/bin/python fig_template.py --journal nature
 ```
-R: `install.packages(c("ggplot2","patchwork"))` then `Rscript fig_template.R`.
+R: `install.packages(c("ggplot2","patchwork","svglite"))` then `Rscript fig_template.R`  
+The R template preflights required packages (ggplot2, patchwork, svglite) before plotting to avoid partial outputs.
 
 ## Example data
 All example data are **simulated** food-microbiology values (growth curves, D-value survival, CFU counts) produced by `simulate_data.py`. They are not experimental results.
