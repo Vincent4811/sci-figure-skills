@@ -1,6 +1,6 @@
 # sci-figure-skills
 
-![sci-figure-skills overview](docs/assets/sci-figure-skills-overview.png)
+![Help readers see the science: four modular Agent Skills for scientific figure design, Python and R plotting, graphical abstracts, and structured review. Future vision: connect critical thinking, evidence, figures and scholarly writing.](docs/assets/sci-figure-skills-infographic-2026-11.png)
 
 Agent Skills for designing scientific figures, graphical abstracts and infographics — with special focus on **typography** and **multi-panel (a/b/c) layout**, plus runnable Python/R templates.
 
@@ -48,6 +48,10 @@ The R template preflights required packages (ggplot2, patchwork, svglite) before
 
 ## Example data
 All example data are **simulated** food-microbiology values (growth curves, D-value survival, CFU counts) produced by `simulate_data.py`. They are not experimental results.
+
+## Future direction: a connected academic toolkit
+
+The longer-term vision is to connect complementary Skills for critical thinking, evidence appraisal, scientific figures and scholarly writing. The goal is to help researchers carry a clear, traceable argument from question to communication. Cross-Skill orchestration is a future direction.
 
 ## Sources & copyright
 Content paraphrases and cites the sources listed in each skill's `references/`. No figures or long passages are reproduced. Midway (2020) is CC BY-NC-ND, Healy (2018) is all rights reserved, Amoah-Oppong (2025) is CC BY-NC, and Jambor & Bornhäuser (2024) is CC BY. See `LICENSE-NOTES.md`.
